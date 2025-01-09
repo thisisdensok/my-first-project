@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 Here are a few of my notable projects:
 
-1. [**My First Project**](https://github.com/thisisdensok/thisisdensok) - This is my first project.
+1. [**My First Project/Repo**](https://github.com/thisisdensok/thisisdensok) - This is my first project or repository.
 2. [**Visit Profile**](https://github.com/thisisdensok) - Please check out my other public repositories on my profile.
 
 ## 📫 How to reach me
@@ -32,7 +32,7 @@ Here are a few of my notable projects:
 
 ## 🌱 Currently Learning
 
-I'm currently diving deeper into:
+I'm currently diving into:
 
 - Beginner Angular Patterns
 - Machine Learning with Python
