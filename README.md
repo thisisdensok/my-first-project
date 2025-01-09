@@ -36,7 +36,7 @@ I'm currently diving into:
 
 - Beginner Angular Patterns
 - Machine Learning with Python
-- Cloud Computing with AWS
+- Cloud Computing with AWS, Google Cloud, DigitalOcean
 
 ## 💬 Let's Connect
 
