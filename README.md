@@ -36,6 +36,7 @@ I'm currently diving into:
 
 - Beginner Angular Patterns
 - Machine Learning with Python
+- Web Development with Django, Django REST framework
 - Cloud Computing with AWS, Google Cloud, DigitalOcean
 
 ## 💬 Let's Connect
