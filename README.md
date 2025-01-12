@@ -34,11 +34,10 @@ Here are a few of my notable projects:
 
 I'm currently diving into:
 
-- Beginner Angular Patterns
 - Machine Learning with Python
 - Game Development with OpenGL C++
-- Web Development with Django, Django REST framework
 - Cloud Computing with AWS, Google Cloud, DigitalOcean
+- Web Development with Angular and Django REST framework
 
 ## 💬 Let's Connect
 
