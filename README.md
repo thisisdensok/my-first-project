@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ## 🔧 Technologies & Tools
 
 - **Languages**: JavaScript, Python, C/C++
-- **Frameworks**: Angular, Django, Django REST framework
+- **Frameworks**: Flutter, Angular, Django, Django REST framework
 - **Databases**: MySQL, PostgreSQL
 - **Tools**: Git, Docker
 
