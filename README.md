@@ -35,7 +35,7 @@ Here are a few of my notable projects:
 I'm currently diving into:
 
 - Machine Learning with Python
-- Game Development with OpenGL Python
+- Game Development with OpenGL in C++, PyOpenGL
 - Cloud Computing with AWS, Google Cloud, DigitalOcean
 - Web Development with Angular and Django REST framework
 
