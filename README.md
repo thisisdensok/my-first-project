@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 - **Languages**: JavaScript, Python, C/C++
 - **Frameworks**: Flutter, Angular, Django, Django REST framework
-- **Databases**: MySQL, PostgreSQL
+- **Databases**: MySQL, PostgreSQL, SQLite
 - **Tools**: Git, Docker
 
 ## 📈 GitHub Stats
