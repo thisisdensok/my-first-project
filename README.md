@@ -36,7 +36,7 @@ I'm currently diving into:
 
 - Machine Learning with Python
 - Mobile App Development with Flutter
-- Game Development with OpenGL in C++, PyOpenGL
+- Game Development with OpenGL, Godot Engine
 - Cloud Computing with AWS, Google Cloud, DigitalOcean
 - Web Development with Angular and Django REST framework
 
